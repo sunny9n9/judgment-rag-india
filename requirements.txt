@@ -1,0 +1,5 @@
+numpy
+faiss
+sentence_transformers
+torch
+transformers
